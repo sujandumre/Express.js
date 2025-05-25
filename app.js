@@ -25,9 +25,7 @@ app.set('views', path.join(__dirname, 'views'))  // set the views directory
 //     res.send("This is express app on about section");
 // });
 
-// app.post("/about",(req,res)=>{
-//     res.send("This is the post request express app on about section");
-// });
+
 // app.get("/about",(req,res)=>{
 //     res.status(404).send("This is express app on about section");
 // });
