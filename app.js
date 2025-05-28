@@ -12,23 +12,7 @@ app.use(express.urlencoded())
 app.set('view engine', 'pug') // set the template engine
 app.set('views', path.join(__dirname, 'views'))  // set the views directory
 
-// //our pug demo endpoint
-// app.get("/demo",(req,res)=>{
-//      res.status(200).render('demo', { title: 'Hey sujan', message: 'Hello there! and thats for helping my problems' })
-// });
 
-// app.get("/",(req,res)=>{
-//     res.send("This is express app of the home page")
-// });
-
-// app.get("/about",(req,res)=>{
-//     res.send("This is express app on about section");
-// });
-
-
-// app.get("/about",(req,res)=>{
-//     res.status(404).send("This is express app on about section");
-// });
 
 
 
