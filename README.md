@@ -71,4 +71,4 @@ Built as a practice project for learning Express.js and Pug integration.
 
 ✍️ Author
 Sujan Dumre
-sujandumre
+github.com/sujandumre
