@@ -45,7 +45,7 @@ project/
 
 1. **Clone the repository**
  
-   git clone https://github.com/dumresujan/express-pug-form-app.git
+   git clone https://github.com/dumresujan
    cd express-pug-form-app
 Install dependencies
 
