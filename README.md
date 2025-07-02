@@ -34,11 +34,10 @@ project/
 │ └── demo.pug
   └── index.pug
 │
-├── output.txt # File where form submissions are saved
+├── output.txt (File where form submissions are saved)
 │
-└──app.js # Main application file (your Express server)
-│
-└── README.md # Project documentation
+└──app.js # Main application file
+
 
 
 
@@ -62,9 +61,8 @@ Visit the app in your browser at:
 
 📬 Sample Form Output
 If you submit the form, a line like this will be written to output.txt:
+example:(The name of the client is John Doe, email is john@example.com, phone is 1234567890, and address is 123 Main Street).
 
-
-The name of the client is John Doe, email is john@example.com, phone is 1234567890, and address is 123 Main Street.
 📄 License
 This project is licensed under the MIT License.
 
@@ -73,4 +71,4 @@ Built as a practice project for learning Express.js and Pug integration.
 
 ✍️ Author
 Sujan Dumre
-Your GitHub Profile
+sujandumre
