@@ -28,10 +28,11 @@ This is a basic Node.js web application built with **Express.js** and **Pug** th
 
 project/
 │
-├── static/ # Static assets like CSS, images
+├── static/inde.js,style.css images
 │
-├── views/ # Pug templates (e.g., index.pug)
-│ └── index.pug
+├── views/ 
+│ └── demo.pug
+  └── index.pug
 │
 ├── output.txt # File where form submissions are saved
 │
