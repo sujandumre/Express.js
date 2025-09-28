@@ -1,10 +1,10 @@
-# 🛠️ Express + Pug Form Submission App
+#  Express + Pug Form Submission App
 
 This is a basic Node.js web application built with **Express.js** and **Pug** that serves static files, renders dynamic views, and handles form submissions by saving the submitted data to a file.
 
 
 
-## 🚀 Features
+##  Features
 
 - 📄 Renders a dynamic form page using **Pug template engine**
 - 📨 Handles POST requests from a form
@@ -14,7 +14,7 @@ This is a basic Node.js web application built with **Express.js** and **Pug** th
 
 
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 - Node.js
 - Express.js
@@ -24,7 +24,7 @@ This is a basic Node.js web application built with **Express.js** and **Pug** th
 
 
 
-## 📁 Project Structure
+##  Project Structure
 
 project/
 │
@@ -41,7 +41,7 @@ project/
 
 
 
-## 📦 Installation
+##  Installation
 
 1. **Clone the repository**
  
@@ -51,15 +51,15 @@ Install dependencies
 
 
 npm install
-▶️ Run the Application
+ Run the Application
 Start the development server:
 
 
 node app.js
 Visit the app in your browser at:
-👉 http://localhost:80
+ http://localhost:80
 
-📬 Sample Form Output
+ Sample Form Output
 If you submit the form, a line like this will be written to output.txt:
 example:(The name of the client is John Doe, email is john@example.com, phone is 1234567890, and address is 123 Main Street).
 
